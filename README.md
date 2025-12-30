@@ -7,3 +7,4 @@ focused on log analysis and security investigations.
 ## Use Cases
 
 - DNS Analysis
+-SSH Analysis
